@@ -1,6 +1,6 @@
 <?php
 
-namespace Univerze\Jira;
+namespace VentureApp\Jira;
 
 use Illuminate\Support\ServiceProvider;
 
